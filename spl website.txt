@@ -1,0 +1,7 @@
+1.https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm
+2.https://www.studytonight.com/operating-system/cpu-scheduling
+3.https://www.youtube.com/watch?v=wO2O3WY5uYc
+4.https://www.youtube.com/watch?v=3N2t9_6Co3U
+5.https://www.scribd.com/document/280157462/CPU-Scheduling
+6.http://www.programmingwithbasics.com/2016/02/c-program-for-fcfs-first-come-first.html
+7.http://www.programmingwithbasics.com/2016/02/c-program-for-shortest-job-first.html
